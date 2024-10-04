@@ -1,0 +1,104 @@
+{
+  "hubs": [
+    {
+      "x": 257,
+      "y": 139,
+      "width": 1279,
+      "height": 820,
+      "state": {
+        "sidebar": {
+          "width": 391,
+          "expanded": [
+            "/AdvantageKit",
+            "/AdvantageKit/RealOutputs",
+            "/AdvantageKit/RealOutputs/NoteVisualizer/0/translation",
+            "/AdvantageKit/RealOutputs/Drive/Viz/Pose3d",
+            "/AdvantageKit/RealOutputs/Drive/Viz/Pose3d/rotation",
+            "/AdvantageKit/RealOutputs/Drive/Viz/Pose/rotation",
+            "/AdvantageKit/RealOutputs/Drive/Viz/Pose/translation",
+            "/AdvantageKit/RealOutputs/NoteVisualizer/0",
+            "/AdvantageKit/RealOutputs/Turret/IO",
+            "/AdvantageKit/RealOutputs/Turret/IO/setPositionSetpoint",
+            "/AdvantageKit/RealOutputs/Drive/Viz",
+            "/AdvantageKit/RealOutputs/Shooter Stage 2/Sim",
+            "/AdvantageKit/RealOutputs/Shooter Stage 1/Sim",
+            "/AdvantageKit/RealOutputs/Shooter Stage 2/API/setVelocitySetpointImpl",
+            "/AdvantageKit/Hood",
+            "/AdvantageKit/RealOutputs/Hood",
+            "/AdvantageKit/RealOutputs/Hood/Sim",
+            "/AdvantageKit/RealOutputs/Hood/API",
+            "/AdvantageKit/RealOutputs/Hood/API/setPositionSetpointImp",
+            "/AdvantageKit/RealOutputs/Hood/API/setOpenLoopDutyCycle",
+            "/AdvantageKit/RealOutputs/Hood/API/setNeutralModeImpl",
+            "/AdvantageKit/RealOutputs/Shooter Stage 2",
+            "/AdvantageKit/Shooter Stage 2",
+            "/AdvantageKit/Shooter Stage 1",
+            "/AdvantageKit/RealOutputs/Drive"
+          ]
+        },
+        "tabs": {
+          "selected": 1,
+          "tabs": [
+            {
+              "type": 0,
+              "path": "../docs/INDEX.md"
+            },
+            {
+              "type": 6,
+              "uuid": "8ztlbewilwhern2q6vvxqen21xglkthk",
+              "fields": [],
+              "listFields": [
+                [
+                  {
+                    "type": "Component (Robot)",
+                    "key": "NT:/AdvantageKit/RealOutputs/ComponentsPoseArray",
+                    "sourceTypeIndex": 2,
+                    "sourceType": "Pose3d[]"
+                  },
+                  {
+                    "type": "Robot",
+                    "key": "NT:/AdvantageKit/RealOutputs/Drive/Viz/Pose3d",
+                    "sourceTypeIndex": 1,
+                    "sourceType": "Pose3d"
+                  },
+                  {
+                    "type": "Game Piece 0",
+                    "key": "NT:/AdvantageKit/RealOutputs/NoteVisualizer",
+                    "sourceTypeIndex": 2,
+                    "sourceType": "Pose3d[]"
+                  }
+                ],
+                []
+              ],
+              "options": {
+                "field": "2024 Field",
+                "alliance": "blue",
+                "robot": "2024_Comp",
+                "unitDistance": "meters",
+                "unitRotation": "radians"
+              },
+              "configHidden": false,
+              "visualizer": {
+                "cameraIndex": -1,
+                "orbitFov": 50,
+                "cameraPosition": [
+                  -7.7261214290096865,
+                  4.358009688219903,
+                  15.96062993055138
+                ],
+                "cameraTarget": [
+                  -5.760525396696764,
+                  -0.560075181238282,
+                  -3.218984904061742
+                ]
+              },
+              "title": "3D Field"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "satellites": [],
+  "version": "3.2.0"
+}

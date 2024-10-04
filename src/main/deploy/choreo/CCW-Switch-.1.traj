@@ -1,0 +1,159 @@
+{
+  "samples": [
+    {
+      "x": 8.1,
+      "y": 4.11,
+      "heading": 1,
+      "angularVelocity": -2.1343668819768616e-16,
+      "velocityX": 1.0708090251070188e-16,
+      "velocityY": 3.265311106177292,
+      "timestamp": 0
+    },
+    {
+      "x": 8.1,
+      "y": 4.229999999999601,
+      "heading": 1,
+      "angularVelocity": -2.1310595149547746e-16,
+      "velocityX": 1.090023991546218e-16,
+      "velocityY": 3.336797671651921,
+      "timestamp": 0.03596262399098129
+    },
+    {
+      "x": 8.1,
+      "y": 4.349999999999631,
+      "heading": 1,
+      "angularVelocity": 2.7462725713329775e-16,
+      "velocityX": 1.5171551848787296e-16,
+      "velocityY": 3.33679767166389,
+      "timestamp": 0.07192524798196258
+    },
+    {
+      "x": 8.1,
+      "y": 4.469999999999662,
+      "heading": 1,
+      "angularVelocity": 5.979607703906551e-18,
+      "velocityX": 2.346102143893285e-16,
+      "velocityY": 3.3367976716638905,
+      "timestamp": 0.10788787197294386
+    },
+    {
+      "x": 8.1,
+      "y": 4.5899999999996925,
+      "heading": 1,
+      "angularVelocity": -3.818668479981846e-18,
+      "velocityX": 8.403696733176904e-17,
+      "velocityY": 3.33679767166389,
+      "timestamp": 0.14385049596392516
+    },
+    {
+      "x": 8.1,
+      "y": 4.709999999999724,
+      "heading": 1,
+      "angularVelocity": -4.817747015372886e-18,
+      "velocityX": 7.679416928540855e-17,
+      "velocityY": 3.33679767166389,
+      "timestamp": 0.17981311995490645
+    },
+    {
+      "x": 8.1,
+      "y": 4.829999999999754,
+      "heading": 1,
+      "angularVelocity": -3.572980179554523e-18,
+      "velocityX": 4.5936664739514564e-17,
+      "velocityY": 3.33679767166389,
+      "timestamp": 0.21577574394588775
+    },
+    {
+      "x": 8.1,
+      "y": 4.949999999999785,
+      "heading": 1,
+      "angularVelocity": -6.286774713347962e-18,
+      "velocityX": -6.524870219353263e-17,
+      "velocityY": 3.33679767166389,
+      "timestamp": 0.25173836793686905
+    },
+    {
+      "x": 8.1,
+      "y": 5.0699999999998155,
+      "heading": 1,
+      "angularVelocity": -7.214553079764435e-18,
+      "velocityX": -7.645308699112523e-17,
+      "velocityY": 3.33679767166389,
+      "timestamp": 0.2877009919278503
+    },
+    {
+      "x": 8.1,
+      "y": 5.189999999999847,
+      "heading": 1,
+      "angularVelocity": -7.227772016474637e-18,
+      "velocityX": -7.084815885074711e-17,
+      "velocityY": 3.33679767166389,
+      "timestamp": 0.3236636159188316
+    },
+    {
+      "x": 8.1,
+      "y": 5.309999999999877,
+      "heading": 1,
+      "angularVelocity": -7.347880458249996e-18,
+      "velocityX": -1.123093116177931e-16,
+      "velocityY": 3.33679767166389,
+      "timestamp": 0.35962623990981285
+    },
+    {
+      "x": 8.1,
+      "y": 5.429999999999908,
+      "heading": 1,
+      "angularVelocity": -8.898537823845145e-18,
+      "velocityX": -1.0294139397914448e-16,
+      "velocityY": 3.33679767166389,
+      "timestamp": 0.3955888639007941
+    },
+    {
+      "x": 8.1,
+      "y": 5.5499999999999385,
+      "heading": 1,
+      "angularVelocity": -5.949377531100065e-18,
+      "velocityX": -1.4649451026869186e-16,
+      "velocityY": 3.33679767166389,
+      "timestamp": 0.4315514878917754
+    },
+    {
+      "x": 8.1,
+      "y": 5.66999999999997,
+      "heading": 1,
+      "angularVelocity": -5.848643456108488e-18,
+      "velocityX": 1.71537175696838e-17,
+      "velocityY": 3.33679767166389,
+      "timestamp": 0.46751411188275666
+    },
+    {
+      "x": 8.1,
+      "y": 5.79,
+      "heading": 1,
+      "angularVelocity": -6.517998344021256e-18,
+      "velocityX": -1.4495151501743007e-16,
+      "velocityY": 3.33679767166389,
+      "timestamp": 0.503476735873738
+    }
+  ],
+  "eventMarkers": [
+    {
+      "timestamp": 0,
+      "command": {
+        "type": "named",
+        "data": {
+          "name": "StageInShooter"
+        }
+      }
+    },
+    {
+      "timestamp": 0,
+      "command": {
+        "type": "named",
+        "data": {
+          "name": "EngagePathCancel"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "hubs": [
+    {
+      "x": 1645,
+      "y": 546,
+      "width": 1757,
+      "height": 1281,
+      "state": {
+        "sidebar": {
+          "width": 391,
+          "expanded": [
+            "/AdvantageKit",
+            "/AdvantageKit/RealOutputs",
+            "/AdvantageKit/RealOutputs/NoteVisualizer/0/translation",
+            "/AdvantageKit/RealOutputs/Drive/Viz/Pose3d",
+            "/AdvantageKit/RealOutputs/Drive/Viz/Pose3d/rotation",
+            "/AdvantageKit/RealOutputs/Drive/Viz/Pose/rotation",
+            "/AdvantageKit/RealOutputs/Drive/Viz/Pose/translation",
+            "/AdvantageKit/RealOutputs/NoteVisualizer/0",
+            "/AdvantageKit/RealOutputs/Turret/IO",
+            "/AdvantageKit/RealOutputs/Turret/IO/setPositionSetpoint",
+            "/AdvantageKit/RealOutputs/Drive/Viz",
+            "/AdvantageKit/RealOutputs/Shooter Stage 2/Sim",
+            "/AdvantageKit/RealOutputs/Shooter Stage 1/Sim",
+            "/AdvantageKit/RealOutputs/Shooter Stage 2/API/setVelocitySetpointImpl",
+            "/AdvantageKit/RealOutputs/Hood/Sim",
+            "/AdvantageKit/RealOutputs/Hood/API",
+            "/AdvantageKit/RealOutputs/Hood/API/setPositionSetpointImp",
+            "/AdvantageKit/RealOutputs/Hood/API/setOpenLoopDutyCycle",
+            "/AdvantageKit/RealOutputs/Hood/API/setNeutralModeImpl",
+            "/AdvantageKit/RealOutputs/Shooter Stage 2",
+            "/AdvantageKit/RealOutputs/Hood/API/setPositionSetpoint",
+            "/AdvantageKit/Shooter Stage 2",
+            "/AdvantageKit/RealOutputs/Hood/IO",
+            "/AdvantageKit/RealOutputs/Hood/IO/setPositionSetpoint",
+            "/AdvantageKit/Intake",
+            "/AdvantageKit/RealOutputs/Turret",
+            "/RealOutputs",
+            "/RealOutputs/Drive",
+            "/RealOutputs/Drive/Viz",
+            "/RealOutputs/Vision"
+          ]
+        },
+        "tabs": {
+          "selected": 1,
+          "tabs": [
+            {
+              "type": 0,
+              "path": "../docs/INDEX.md"
+            },
+            {
+              "type": 6,
+              "uuid": "8ztlbewilwhern2q6vvxqen21xglkthk",
+              "fields": [],
+              "listFields": [
+                [
+                  {
+                    "type": "Robot",
+                    "key": "/RealOutputs/Drive/Viz/Pose3d",
+                    "sourceTypeIndex": 1,
+                    "sourceType": "Pose3d"
+                  },
+                  {
+                    "type": "Component (Robot)",
+                    "key": "/RealOutputs/ComponentsPoseArray",
+                    "sourceTypeIndex": 2,
+                    "sourceType": "Pose3d[]"
+                  },
+                  {
+                    "type": "Game Piece 0",
+                    "key": "/RealOutputs/NoteVisualizer",
+                    "sourceTypeIndex": 2,
+                    "sourceType": "Pose3d[]"
+                  }
+                ],
+                [
+                  {
+                    "type": "Green Ghost",
+                    "key": "/RealOutputs/Vision/turretMegatag2Estimate",
+                    "sourceTypeIndex": 1,
+                    "sourceType": "Pose2d"
+                  },
+                  {
+                    "type": "Yellow Ghost",
+                    "key": "/RealOutputs/Vision/elevatorMegatagEstimate",
+                    "sourceTypeIndex": 1,
+                    "sourceType": "Pose2d"
+                  }
+                ]
+              ],
+              "options": {
+                "field": "2024 Field",
+                "alliance": "blue",
+                "robot": "2024_Comp",
+                "unitDistance": "meters",
+                "unitRotation": "radians"
+              },
+              "configHidden": false,
+              "visualizer": {
+                "cameraIndex": -2,
+                "orbitFov": 50,
+                "cameraPosition": [
+                  0.10641856513848112,
+                  9.104071652824638,
+                  3.118954036259305
+                ],
+                "cameraTarget": [
+                  0,
+                  0.5,
+                  0
+                ]
+              },
+              "title": "3D Field"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "x": 314,
+      "y": 178,
+      "width": 1100,
+      "height": 650,
+      "state": {
+        "sidebar": {
+          "width": 300,
+          "expanded": [
+            "/RealOutputs",
+            "/RealOutputs/Drive",
+            "/RealOutputs/Drive/Viz",
+            "/RealOutputs/RobotState"
+          ]
+        },
+        "tabs": {
+          "selected": 2,
+          "tabs": [
+            {
+              "type": 0,
+              "path": "../docs/INDEX.md"
+            },
+            {
+              "type": 1,
+              "legendHeight": 0.3,
+              "legends": {
+                "left": {
+                  "lockedRange": null,
+                  "unitConversion": {
+                    "type": null,
+                    "factor": 1
+                  },
+                  "fields": []
+                },
+                "discrete": {
+                  "fields": []
+                },
+                "right": {
+                  "lockedRange": null,
+                  "unitConversion": {
+                    "type": null,
+                    "factor": 1
+                  },
+                  "fields": []
+                }
+              },
+              "title": "Line Graph"
+            },
+            {
+              "type": 6,
+              "uuid": "8scq1p9xtfqyecsejl1jxm2ktaabt846",
+              "fields": [],
+              "listFields": [
+                [
+                  {
+                    "type": "Robot",
+                    "key": "/RealOutputs/Drive/Viz/Pose3d",
+                    "sourceTypeIndex": 1,
+                    "sourceType": "Pose3d"
+                  },
+                  {
+                    "type": "Component (Robot)",
+                    "key": "/RealOutputs/ComponentsPoseArray",
+                    "sourceTypeIndex": 2,
+                    "sourceType": "Pose3d[]"
+                  }
+                ],
+                [
+                  {
+                    "type": "Green Ghost",
+                    "key": "/RealOutputs/RobotState/fieldToRobotMegatagEstimate",
+                    "sourceTypeIndex": 1,
+                    "sourceType": "Pose2d"
+                  },
+                  {
+                    "type": "Yellow Ghost",
+                    "key": "/RealOutputs/RobotState/fieldToRobotPinholeEstimate",
+                    "sourceTypeIndex": 1,
+                    "sourceType": "Pose2d"
+                  }
+                ]
+              ],
+              "options": {
+                "field": "2024 Field",
+                "alliance": "blue",
+                "robot": "2024_Comp",
+                "unitDistance": "meters",
+                "unitRotation": "radians"
+              },
+              "configHidden": false,
+              "visualizer": {
+                "cameraIndex": -1,
+                "orbitFov": 50,
+                "cameraPosition": [
+                  0.8826837743589125,
+                  10.029893505328875,
+                  -6.040841089863178
+                ],
+                "cameraTarget": [
+                  0,
+                  0.5,
+                  0
+                ]
+              },
+              "title": "3D Field"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "satellites": [],
+  "version": "3.2.0"
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.team254.lib.auto.ChoreoTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-10-04T04:54:50" hostname="Ayushs-MBP.lan" time="0.906">
+  <properties/>
+  <testcase name="testSameStartingPosition()" classname="com.team254.lib.auto.ChoreoTest" time="0.86"/>
+  <testcase name="testSameEndingPosition()" classname="com.team254.lib.auto.ChoreoTest" time="0.045"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
